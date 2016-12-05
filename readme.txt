@@ -9,4 +9,9 @@ git clone https://github.com/setapolo/chaing.git
    11  git push -u origin master
 
 
+
+
+firefox index.html
+
+
  git pull origin master
